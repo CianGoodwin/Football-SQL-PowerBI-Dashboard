@@ -1,0 +1,16 @@
+{
+  "name": "Football SQL Project",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+
+  "features": {
+    "ghcr.io/devcontainers/features/postgres:1": {
+      "version": "15",
+      "database": "football",
+      "user": "postgres",
+      "password": "postgres"
+    }
+  },
+
+  "forwardPorts": [5432],
+  "postCreateCommand": "echo 'Postgres is ready!'"
+}
