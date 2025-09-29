@@ -3,7 +3,7 @@
 
 This project is an interactive Power BI dashboard that analyzes football player and team performance from games in Europes top 5 leagues from 2014 to 2020.
 
-### The project was built using:
+## The project was built using:
 
 SQLite for data querying
 Power BI for visualization
