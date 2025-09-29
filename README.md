@@ -9,15 +9,6 @@ SQLite for data querying
 Power BI for visualization
 Team and player-level performance breakdown
 
-## Repository Structure
-football-dashboard/
-│-- data/                 # (Optional) Example dataset or schema
-│-- Football_Dashboard.pbix
-│-- README.md
-
-## Screenshots
-
-
 ## Skills Demonstrated
 Complex SQL querying
 Data modeling for BI dashboards
